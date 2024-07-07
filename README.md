@@ -76,31 +76,39 @@ This system is designed to be an indispensable tool for organizations seeking to
 
 ## Admin Interface
 
-![Admin Page](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/a0398bd5-50f6-4836-b385-7ef383c668ea)
+![Admin Page](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/1eef1f27-4be0-4167-bf81-b86c3263bfb6)
+
 
 ## Employee Dashboard
 
-![Employee Dashboard edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/214e25a1-c487-41da-961b-f3f065928dba.png)
+![Employee Dashboard edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/adaf29f7-b227-4b3b-8bff-c90502c52f8b)
+
 
 ## Employee Profile
-![Employee Profile](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/eca4bd13-06a0-4a66-a7f5-f494200c10e9.png)
+
+![Employee Profile](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/01c1ebaf-243e-43ce-928d-bbf17444d6e8)
 
 
 ## Work Experience Interface
 
-![Experinece](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/e157cc49-e82b-4a8e-af7f-1086f407a565)
+![Experinece](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/5177314d-136a-4037-81cb-9dda9ed4379c)
+
 
 ## Education Interface
-![Education](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/5fb33e9c-c2d7-42d8-bbc2-fa5166b19c73)
+
+![Education](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/0d2fa689-9b69-4c52-876a-f4cf239994a8)
 
 ## Employee Signup page
-![Employee Signup edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/accb9c63-c7df-4106-9812-6104cb08ac86.png)
+
+![Employee Signup edit](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/28bf274b-e2c3-49ad-a436-33ad778bb876)
 
 ## Home Interface
-![Employee](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/ed43111b-dd84-4ef5-a824-c67e08e1d137.png)
+![Employee](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/f57a6741-4438-40b6-923b-119a45dacb2e)
+
 
 ## Home Interface
-![Emp](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/390d9307-dba7-47e4-b588-864ee994e520)
+![Employee1](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/20cfb23c-69e4-439d-9501-a7f814bbe040)
+
 
 ## Installation
     
