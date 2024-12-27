@@ -74,8 +74,12 @@ The **Employee Record Management System** is a comprehensive and user-friendly a
 This system is designed to be an indispensable tool for organizations seeking to improve their employee record management processes, ensuring data is easily accessible, secure, and organized.
 
 
+
+
 ## Admin Interface
 
+![admin photo](https://github.com/user-attachments/assets/e11a5e31-f8cc-484c-aa86-948ba895bc60)
+![admin portal](https://github.com/user-attachments/assets/1e96b2c2-7d4b-42fa-95b9-9eb5186e463f)
 ![Admin Page](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/1eef1f27-4be0-4167-bf81-b86c3263bfb6)
 
 
