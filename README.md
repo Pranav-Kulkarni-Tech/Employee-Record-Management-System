@@ -227,6 +227,6 @@ python manage.py runserver
 Your **Employee Record Management System** is now successfully installed and running! 🚀  
 
 ⭐ **Star the repository** on GitHub if you found it useful! 😊  
-```
+
 
 
