@@ -84,6 +84,8 @@ The **Employee Record Management System** is a **Django-based** web application 
 
 
 ## 📸 Screenshots  
+## 🛠️ Admin Login
+![admin photo](https://github.com/user-attachments/assets/e11a5e31-f8cc-484c-aa86-948ba895bc60)
 
 ### 🏢 **Admin Portal**  
 ![Admin Portal](https://github.com/user-attachments/assets/1e96b2c2-7d4b-42fa-95b9-9eb5186e463f)  
