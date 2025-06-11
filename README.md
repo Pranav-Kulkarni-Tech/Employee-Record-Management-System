@@ -94,7 +94,8 @@ The **Employee Record Management System** is a **Django-based** web application 
 ![admin photo](https://github.com/user-attachments/assets/e11a5e31-f8cc-484c-aa86-948ba895bc60)
 
 ### 🏢 **Admin Portal**  
-![Admin Portal](https://github.com/user-attachments/assets/1e96b2c2-7d4b-42fa-95b9-9eb5186e463f)  
+![Image](https://github.com/user-attachments/assets/0b7f7d4d-9b96-44ee-920a-e8f1da824d0c)
+
 
 ### 📌 **Admin Dashboard**  
 ![Admin Dashboard](https://github.com/user-attachments/assets/f1d26da3-644d-49e0-ae9c-ebe2ff473dd0)  
@@ -103,8 +104,7 @@ The **Employee Record Management System** is a **Django-based** web application 
 ![Employee Dashboard](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/adaf29f7-b227-4b3b-8bff-c90502c52f8b)  
 
 ### 🆔 **Employee Profile**  
-![Employee Profile](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/01c1ebaf-243e-43ce-928d-bbf17444d6e8)  
-
+![Image](https://github.com/user-attachments/assets/c1258fbf-7dbe-4762-9e94-812a39ae5d50) 
 ### 💼 **Work Experience Interface**  
 ![Experience](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/5177314d-136a-4037-81cb-9dda9ed4379c)  
 
