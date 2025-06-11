@@ -98,7 +98,7 @@ The **Employee Record Management System** is a **Django-based** web application 
 
 
 ### 📌 **Admin Dashboard**  
-  
+  ![Image](https://github.com/user-attachments/assets/0b7f7d4d-9b96-44ee-920a-e8f1da824d0c)
 
 ### 👨‍💼 **Employee Dashboard**  
 ![Employee Dashboard](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/adaf29f7-b227-4b3b-8bff-c90502c52f8b)  
