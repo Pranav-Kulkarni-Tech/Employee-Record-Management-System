@@ -84,7 +84,13 @@ The **Employee Record Management System** is a **Django-based** web application 
 
 
 ## 📸 Screenshots  
-## 🛠️ Admin Login
+
+### 🏠 **Home Interface**  
+![Image](https://github.com/user-attachments/assets/5b75efee-78e9-4ab9-9bad-612cfe99538e)
+
+![Image](https://github.com/user-attachments/assets/b7be0712-1739-45d3-a78c-5dfae1628f3d)
+
+### 🛠️ Admin Login
 ![admin photo](https://github.com/user-attachments/assets/e11a5e31-f8cc-484c-aa86-948ba895bc60)
 
 ### 🏢 **Admin Portal**  
@@ -108,8 +114,7 @@ The **Employee Record Management System** is a **Django-based** web application 
 ### 📝 **Employee Signup Page**  
 ![Employee Signup](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/28bf274b-e2c3-49ad-a436-33ad778bb876)  
 
-### 🏠 **Home Interface**  
-![Home Interface](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/f57a6741-4438-40b6-923b-119a45dacb2e)  
+
 
 ---
 # 📥 Installation Guide  
