@@ -98,13 +98,13 @@ The **Employee Record Management System** is a **Django-based** web application 
 
 
 ### 📌 **Admin Dashboard**  
-![Admin Dashboard](https://github.com/user-attachments/assets/f1d26da3-644d-49e0-ae9c-ebe2ff473dd0)  
+  
 
 ### 👨‍💼 **Employee Dashboard**  
 ![Employee Dashboard](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/adaf29f7-b227-4b3b-8bff-c90502c52f8b)  
 
 ### 🆔 **Employee Profile**  
-![Image](https://github.com/user-attachments/assets/c1258fbf-7dbe-4762-9e94-812a39ae5d50) 
+![Image](https://github.com/user-attachments/assets/c1258fbf-7dbe-4762-9e94-812a39ae5d50)  
 ### 💼 **Work Experience Interface**  
 ![Experience](https://github.com/PranavKulkarnipy/Employee-Record-Management-System/assets/156565305/5177314d-136a-4037-81cb-9dda9ed4379c)  
 
